@@ -16,7 +16,7 @@ Let’s connect, collaborate, and build something awesome together!
 
 * 🌍  I'm based in Meerut
 * ✉️  You can contact me at [dhairyaambishnoi@outlook.com](mailto:dhairyaambishnoi@outlook.com)
-* 🚀  I'm currently working on [Xora](https://github.com/DhairyaaMBishnoi/xora)
+* 🚀  I'm currently working on [agency.ai](https://github.com/DhairyaaMBishnoi/agency-ai)
 * 🧠  I'm currently learning Frontend Development
 * 👥  I'm looking to collaborate on interesting projects
 

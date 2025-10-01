@@ -1,28 +1,35 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Dhairya Bishnoi
-========================================================================================================================================
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Dhairya Bishnoi
 
-Student and Aspiring Full Stack Developer
------------------------------------------
+## 🎓 High School Developer | Web Development Enthusiast
 
-🎓 I'm a student with a strong passion for technology and software development, currently diving deep into the world of Full Stack Development. I enjoy building projects that connect the front-end and back-end seamlessly, and I’m constantly exploring new technologies to expand my skillset.
+### 🚀 About Me
 
-💻 So far, I've been working with technologies like HTML, CSS, JavaScript, and frameworks like React on the front-end, while learning Node.js, Express, MongoDB, and SQL for the back-end. I'm also gaining experience with Git/GitHub for version control and collaboration.
+Passionate student developer with a strong foundation in programming and a keen interest in building impactful web applications. Currently expanding my skillset in front-end development while exploring the intersection of technology and user experience. When not coding, I work on structured academic research projects, digital illustration, and educational content creation.
 
-🚀 I'm always working on personal projects and coursework to strengthen my understanding of web development, and I aim to contribute to open-source projects in the near future. My goal is to become a well-rounded Full Stack Developer who can build scalable, efficient, and user-friendly applications.
-
-📚 I believe in continuous learning and am currently focusing on sharpening my skills in API development, authentication systems, and responsive design. I’m excited about what the future holds and the opportunities to grow as a developer.
-
-Let’s connect, collaborate, and build something awesome together!
-
-* 🌍  I'm based in Meerut
+* 🌍  I'm based in Dehradun, UK
 * ✉️  You can contact me at [dhairyaambishnoi@outlook.com](mailto:dhairyaambishnoi@outlook.com)
-* 🚀  I'm currently working on [agency.ai](https://github.com/DhairyaaMBishnoi/agency-ai)
-* 🧠  I'm currently learning Frontend Development
-* 👥  I'm looking to collaborate on interesting projects
+* 🚀  I'm currently working on [Sushiman](http://sushiman-dhairyaambishnoi.vercel.app)
+* 🧠  I'm currently learning HTML5, CSS3, and JavaScript (ES6+)
+* 🤝  I'm looking to collaborate on interesting web development projects
+* 💻  I have previous experience with Node.js and Discord.js API
+* 🎯  My goal is to transition into full-stack web development
+
+### Skills
 
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a>
 </p>
+
+### Current Focus
+
+- Mastering responsive web design and modern CSS techniques
+- Exploring JavaScript frameworks and libraries
+- Building projects that combine functionality with clean, user-friendly interfaces
+- Contributing to open-source projects and collaborative development
+
+---
+
+> *"Learning, building, and growing one commit at a time"* ⚡
 
 ### Socials
 

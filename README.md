@@ -8,7 +8,7 @@ Passionate student developer with a strong foundation in programming and a keen 
 
 * 🌍  I'm based in Dehradun, UK
 * ✉️  You can contact me at [dhairyaambishnoi@outlook.com](mailto:dhairyaambishnoi@outlook.com)
-* 🚀  I'm currently working on [Sushiman](http://sushiman-dhairyaambishnoi.vercel.app)
+* 🚀  I'm currently working on [Sushiman](http://[dhairyaambishnoi-sushiman.vercel.app])
 * 🧠  I'm currently learning HTML5, CSS3, and JavaScript (ES6+)
 * 🤝  I'm looking to collaborate on interesting web development projects
 * 💻  I have previous experience with Node.js and Discord.js API
